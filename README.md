@@ -98,12 +98,7 @@ Visit **http://127.0.0.1:8000/** in your browser.
 ## License
 This project is open-source under the **MIT License**. Feel free to contribute and enhance the system!
 
-## Contributors
-- **Your Name** (Developer)
-- Open to community contributions!
 
-## Contact
-For any issues or suggestions, reach out at **your-email@example.com** or create an issue on GitHub.
 
 
       
